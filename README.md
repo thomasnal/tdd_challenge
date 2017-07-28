@@ -1,6 +1,8 @@
 # TrueView TDD Challenge
 
-## Task: A TrueView user needs to see what the other user loves
+## Task: To use TDD to implement a simple feature
+
+The users's requirement is: 'A TrueView user needs to see what the other user loves'
 
 For more information you can [view the presentation:](https://docs.google.com/presentation/d/1LnKSnw1Y9fRuyf2sFaf-PrrHiJIZmn9Ajdn8kJ5Jckc/edit?usp=sharing)
 
