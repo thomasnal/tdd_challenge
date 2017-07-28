@@ -23,7 +23,7 @@ For more information you can [view the presentation:](https://docs.google.com/pr
 
 ## Ruby specific guidelines
 
-- Clone this repo to start working
+- Fork this repo to start working
 - write your user story in the trueview_challenge.md file
 - A spec file (spec/trueview_challenge_spec.rb) has been prepared for you where you can write your tests
 - A lib file (lib/trueview_challenge.rb) has been prepared where you can write your implementation
